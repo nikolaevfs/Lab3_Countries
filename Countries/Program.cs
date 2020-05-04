@@ -2,8 +2,14 @@
 
 namespace lab4
 {
+    /// <summary>
+    /// Класс программы
+    /// </summary>
     class Program
     {
+        /// <summary>
+        /// Главная функция, принимает на вход название страны и выполняет настройки приложения
+        /// </summary>
         static void Main(string[] args)
         {
             Console.WriteLine("Введите название страны на английском");

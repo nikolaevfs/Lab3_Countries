@@ -2,6 +2,9 @@
 
 namespace lab4
 {
+    /// <summary>
+    /// Класс, в котором функции по настроке приложения
+    /// </summary>
     class ChinaSetting : Settings
     {
         public override void Language()

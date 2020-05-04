@@ -2,8 +2,15 @@
 
 namespace lab4
 {
+    /// <summary>
+    /// Для выполнения настроек
+    /// </summary>
     public class Display
     {
+        /// <summary>
+        /// Функция выполняет настройки
+        /// </summary>
+        /// <param name="Setting">Настройки страны</param>
         public Display(Settings Setting)
         {
             Setting.Language();
